@@ -1,12 +1,12 @@
 **Welcome To Wissen Bank**
 <div align="right">
-Home 
+[HOME]()
   |
-  About
+[ABOUT]()
   |
-Services
+[SERVICES]()
   |
-Contact us
+[CONTACT US]()
   |
-Net Banking
+[NETBANKING]()
 </div>
