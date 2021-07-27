@@ -1,11 +1,11 @@
 **Welcome To Wissen Bank**
 
-[HOME](https://github.com/YatinGudwani/MDRepo/blob/main/home.md)
+[HOME](home.md)
   |
-[ABOUT](https://github.com/YatinGudwani/MDRepo/blob/main/About.md)
+[ABOUT](About.md)
   |
-[SERVICES](https://github.com/YatinGudwani/MDRepo/blob/main/services.md)
+[SERVICES](services.md)
   |
-[CONTACT US](https://github.com/YatinGudwani/MDRepo/blob/main/contact.md)
+[CONTACT US](contact.md)
   |
-[NETBANKING](https://github.com/YatinGudwani/MDRepo/blob/main/netbanking.md)
+[NETBANKING](netbanking.md)
